@@ -1,4 +1,4 @@
-# dstar380
+# dstar73
 
 Append contacts from dstar.su to DMR ID database and generate Retevis RT73/Kydera CDR-300UV databases (c) 2020, EU1ADI
 

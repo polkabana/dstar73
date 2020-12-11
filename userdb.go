@@ -1,6 +1,6 @@
 package main
 
-// Append contacts from dstar.su database and TG list to TYT MD380/390 userdb.bin
+// Append contacts from dstar.su database and TG list to Retevis RT73/Kydera CDR-300UV
 // (c) 2020, EU1ADI
 
 import (

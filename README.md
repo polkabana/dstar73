@@ -22,6 +22,8 @@ Append contacts from dstar.su to DMR ID database and generate Retevis RT73/Kyder
 
 `userdb.zip` скомпилировная версия для Win10 x64
 
+`userdb.x86.zip` скомпилировная версия для x86
+
 ## Поддержка
 
 Вопросы можно задать в чате https://t.me/qsyby
